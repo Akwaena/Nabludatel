@@ -1,0 +1,1152 @@
+4:29:1.152229 - debugger.py, 1 - Started
+4:29:1.152229 - Brain.py, 2 - Started
+4:29:1.156229 - cfg_parser.py, 3 - Started
+4:29:1.161230 - Interface_Object.py, 4 - Started
+4:29:1.161230 - Interface_Object.py, 5 - Initialising constants
+4:29:1.162230 - Interface_Object.py, 6 - Constants initialised
+4:29:1.162230 - Interface_Object.py, 7 - Interface objects initialising
+4:29:1.173233 - Interface_Object.py, 8 - Button exit initialising
+4:29:1.173233 - Interface_Object.py, 9 - Button exit initialised as dynamic
+4:29:1.173233 - Interface_Object.py, 10 - Button exit initialised
+4:29:1.174233 - Interface_Object.py, 11 - Button start_typing initialising
+4:29:1.174233 - Interface_Object.py, 12 - Button start_typing initialised as dynamic
+4:29:1.174233 - Interface_Object.py, 13 - Button start_typing initialised
+4:29:1.174233 - Interface_Object.py, 14 - Interface objects initialised
+4:29:1.174233 - Interface.py, 15 - Started
+4:29:1.174233 - Interface.py, 16 - Initialising display
+4:29:1.332271 - Interface.py, 17 - Display initialised
+4:29:1.332271 - Interface.py, 18 - Main cycle iteration
+4:29:1.348863 - Interface_Object.py, 19 - Button exit intersection check
+4:29:1.348863 - Interface_Object.py, 20 - Button exit press check
+4:29:1.348863 - Interface_Object.py, 21 - Button exit intersection check failed
+4:29:1.348863 - Interface_Object.py, 22 - Button start_typing intersection check
+4:29:1.348863 - Interface_Object.py, 23 - Button start_typing press check
+4:29:1.348863 - Interface_Object.py, 24 - Button start_typing intersection check failed
+4:29:1.348863 - Interface_Object.py, 25 - Button exit intersection check
+4:29:1.349865 - Interface_Object.py, 26 - Button exit press check
+4:29:1.349865 - Interface_Object.py, 27 - Button exit intersection check failed
+4:29:1.349865 - Interface_Object.py, 28 - Button start_typing intersection check
+4:29:1.349865 - Interface_Object.py, 29 - Button start_typing press check
+4:29:1.349865 - Interface_Object.py, 30 - Button start_typing intersection check failed
+4:29:1.349865 - Interface_Object.py, 31 - Button exit intersection check
+4:29:1.349865 - Interface_Object.py, 32 - Button exit press check
+4:29:1.349865 - Interface_Object.py, 33 - Button exit intersection check failed
+4:29:1.349865 - Interface_Object.py, 34 - Button start_typing intersection check
+4:29:1.349865 - Interface_Object.py, 35 - Button start_typing press check
+4:29:1.349865 - Interface_Object.py, 36 - Button start_typing intersection check failed
+4:29:1.349865 - Interface_Object.py, 37 - Button exit intersection check
+4:29:1.349865 - Interface_Object.py, 38 - Button exit press check
+4:29:1.349865 - Interface_Object.py, 39 - Button exit intersection check failed
+4:29:1.349865 - Interface_Object.py, 40 - Button start_typing intersection check
+4:29:1.349865 - Interface_Object.py, 41 - Button start_typing press check
+4:29:1.349865 - Interface_Object.py, 42 - Button start_typing intersection check failed
+4:29:1.349865 - Interface_Object.py, 43 - Button exit intersection check
+4:29:1.349865 - Interface_Object.py, 44 - Button exit press check
+4:29:1.349865 - Interface_Object.py, 45 - Button exit intersection check failed
+4:29:1.349865 - Interface_Object.py, 46 - Button start_typing intersection check
+4:29:1.349865 - Interface_Object.py, 47 - Button start_typing press check
+4:29:1.349865 - Interface_Object.py, 48 - Button start_typing intersection check failed
+4:29:1.349865 - Interface_Object.py, 49 - Button exit intersection check
+4:29:1.349865 - Interface_Object.py, 50 - Button exit press check
+4:29:1.349865 - Interface_Object.py, 51 - Button exit intersection check failed
+4:29:1.349865 - Interface_Object.py, 52 - Button start_typing intersection check
+4:29:1.349865 - Interface_Object.py, 53 - Button start_typing press check
+4:29:1.349865 - Interface_Object.py, 54 - Button start_typing intersection check failed
+4:29:1.349865 - Interface_Object.py, 55 - Button exit intersection check
+4:29:1.349865 - Interface_Object.py, 56 - Button exit intersection check failed
+4:29:1.349865 - Interface_Object.py, 57 - Button exit press check
+4:29:1.349865 - Interface_Object.py, 58 - Button exit intersection check failed
+4:29:1.349865 - Interface_Object.py, 59 - Button start_typing intersection check
+4:29:1.349865 - Interface_Object.py, 60 - Button start_typing intersection check failed
+4:29:1.349865 - Interface_Object.py, 61 - Button start_typing press check
+4:29:1.349865 - Interface_Object.py, 62 - Button start_typing intersection check failed
+4:29:1.349865 - Interface_Object.py, 63 - Button exit intersection check
+4:29:1.349865 - Interface_Object.py, 64 - Button exit press check
+4:29:1.349865 - Interface_Object.py, 65 - Button exit intersection check failed
+4:29:1.349865 - Interface_Object.py, 66 - Button start_typing intersection check
+4:29:1.349865 - Interface_Object.py, 67 - Button start_typing press check
+4:29:1.349865 - Interface_Object.py, 68 - Button start_typing intersection check failed
+4:29:1.349865 - Interface_Object.py, 69 - Button exit intersection check
+4:29:1.349865 - Interface_Object.py, 70 - Button exit press check
+4:29:1.355278 - Interface_Object.py, 71 - Button exit intersection check failed
+4:29:1.355278 - Interface_Object.py, 72 - Button start_typing intersection check
+4:29:1.355278 - Interface_Object.py, 73 - Button start_typing press check
+4:29:1.355278 - Interface_Object.py, 74 - Button start_typing intersection check failed
+4:29:1.355278 - Interface_Object.py, 75 - Button exit intersection check
+4:29:1.355278 - Interface_Object.py, 76 - Button exit press check
+4:29:1.355278 - Interface_Object.py, 77 - Button exit intersection check failed
+4:29:1.355278 - Interface_Object.py, 78 - Button start_typing intersection check
+4:29:1.355278 - Interface_Object.py, 79 - Button start_typing press check
+4:29:1.355278 - Interface_Object.py, 80 - Button start_typing intersection check failed
+4:29:1.355278 - Interface_Object.py, 81 - Button exit intersection check
+4:29:1.355278 - Interface_Object.py, 82 - Button exit press check
+4:29:1.355278 - Interface_Object.py, 83 - Button exit intersection check failed
+4:29:1.355278 - Interface_Object.py, 84 - Button start_typing intersection check
+4:29:1.355278 - Interface_Object.py, 85 - Button start_typing press check
+4:29:1.355278 - Interface_Object.py, 86 - Button start_typing intersection check failed
+4:29:1.355278 - Interface_Object.py, 87 - Button exit intersection check
+4:29:1.355278 - Interface_Object.py, 88 - Button exit intersection check failed
+4:29:1.355278 - Interface_Object.py, 89 - Button exit press check
+4:29:1.355278 - Interface_Object.py, 90 - Button exit intersection check failed
+4:29:1.355278 - Interface_Object.py, 91 - Button start_typing intersection check
+4:29:1.355278 - Interface_Object.py, 92 - Button start_typing intersection check failed
+4:29:1.355278 - Interface_Object.py, 93 - Button start_typing press check
+4:29:1.355278 - Interface_Object.py, 94 - Button start_typing intersection check failed
+4:29:1.355278 - Interface_Object.py, 95 - Button exit intersection check
+4:29:1.355278 - Interface_Object.py, 96 - Button exit press check
+4:29:1.355278 - Interface_Object.py, 97 - Button exit intersection check failed
+4:29:1.355278 - Interface_Object.py, 98 - Button start_typing intersection check
+4:29:1.355278 - Interface_Object.py, 99 - Button start_typing press check
+4:29:1.355278 - Interface_Object.py, 100 - Button start_typing intersection check failed
+4:29:1.355278 - Interface_Object.py, 101 - Button exit intersection check
+4:29:1.355278 - Interface_Object.py, 102 - Button exit press check
+4:29:1.355278 - Interface_Object.py, 103 - Button exit intersection check failed
+4:29:1.355278 - Interface_Object.py, 104 - Button start_typing intersection check
+4:29:1.355278 - Interface_Object.py, 105 - Button start_typing press check
+4:29:1.355278 - Interface_Object.py, 106 - Button start_typing intersection check failed
+4:29:1.355278 - Interface.py, 107 - Rendering
+4:29:1.355278 - Interface.py, 108 - Rendering sprite
+4:29:1.360280 - Interface.py, 109 - Rendering sprite
+4:29:1.365281 - Interface.py, 110 - Rendering sprite
+4:29:1.370282 - Interface_Object.py, 111 - Button exit rendering
+4:29:1.370282 - Interface_Object.py, 112 - Button start_typing rendering
+4:29:1.372284 - Interface.py, 113 - Main cycle iteration
+4:29:1.388588 - Interface.py, 114 - Rendering
+4:29:1.388588 - Interface.py, 115 - Rendering sprite
+4:29:1.393590 - Interface.py, 116 - Rendering sprite
+4:29:1.397590 - Interface.py, 117 - Rendering sprite
+4:29:1.402591 - Interface_Object.py, 118 - Button exit rendering
+4:29:1.402591 - Interface_Object.py, 119 - Button start_typing rendering
+4:29:1.403591 - Interface.py, 120 - Main cycle iteration
+4:29:1.420593 - Interface.py, 121 - Rendering
+4:29:1.420593 - Interface.py, 122 - Rendering sprite
+4:29:1.424594 - Interface.py, 123 - Rendering sprite
+4:29:1.429595 - Interface.py, 124 - Rendering sprite
+4:29:1.434690 - Interface_Object.py, 125 - Button exit rendering
+4:29:1.434690 - Interface_Object.py, 126 - Button start_typing rendering
+4:29:1.435597 - Interface.py, 127 - Main cycle iteration
+4:29:1.452602 - Interface.py, 128 - Rendering
+4:29:1.452602 - Interface.py, 129 - Rendering sprite
+4:29:1.456602 - Interface.py, 130 - Rendering sprite
+4:29:1.461604 - Interface.py, 131 - Rendering sprite
+4:29:1.465604 - Interface_Object.py, 132 - Button exit rendering
+4:29:1.466604 - Interface_Object.py, 133 - Button start_typing rendering
+4:29:1.467781 - Interface.py, 134 - Main cycle iteration
+4:29:1.484609 - Interface_Object.py, 135 - Button exit intersection check
+4:29:1.484609 - Interface_Object.py, 136 - Button exit intersection check failed
+4:29:1.484609 - Interface_Object.py, 137 - Button exit press check
+4:29:1.484609 - Interface_Object.py, 138 - Button exit intersection check failed
+4:29:1.484609 - Interface_Object.py, 139 - Button start_typing intersection check
+4:29:1.484609 - Interface_Object.py, 140 - Button start_typing intersection check failed
+4:29:1.484609 - Interface_Object.py, 141 - Button start_typing press check
+4:29:1.484609 - Interface_Object.py, 142 - Button start_typing intersection check failed
+4:29:1.484609 - Interface.py, 143 - Rendering
+4:29:1.484609 - Interface.py, 144 - Rendering sprite
+4:29:1.489610 - Interface.py, 145 - Rendering sprite
+4:29:1.493610 - Interface.py, 146 - Rendering sprite
+4:29:1.498612 - Interface_Object.py, 147 - Button exit rendering
+4:29:1.498612 - Interface_Object.py, 148 - Button start_typing rendering
+4:29:1.499613 - Interface.py, 149 - Main cycle iteration
+4:29:1.516616 - Interface_Object.py, 150 - Button exit intersection check
+4:29:1.516616 - Interface_Object.py, 151 - Button exit intersection check failed
+4:29:1.516616 - Interface_Object.py, 152 - Button exit press check
+4:29:1.516616 - Interface_Object.py, 153 - Button exit intersection check failed
+4:29:1.516616 - Interface_Object.py, 154 - Button start_typing intersection check
+4:29:1.516616 - Interface_Object.py, 155 - Button start_typing intersection check failed
+4:29:1.516616 - Interface_Object.py, 156 - Button start_typing press check
+4:29:1.516616 - Interface_Object.py, 157 - Button start_typing intersection check failed
+4:29:1.516616 - Interface.py, 158 - Rendering
+4:29:1.516616 - Interface.py, 159 - Rendering sprite
+4:29:1.521122 - Interface.py, 160 - Rendering sprite
+4:29:1.526124 - Interface.py, 161 - Rendering sprite
+4:29:1.530125 - Interface_Object.py, 162 - Button exit rendering
+4:29:1.531125 - Interface_Object.py, 163 - Button start_typing rendering
+4:29:1.532125 - Interface.py, 164 - Main cycle iteration
+4:29:1.549130 - Interface_Object.py, 165 - Button exit intersection check
+4:29:1.549130 - Interface_Object.py, 166 - Button exit intersection check failed
+4:29:1.549130 - Interface_Object.py, 167 - Button exit press check
+4:29:1.549130 - Interface_Object.py, 168 - Button exit intersection check failed
+4:29:1.549130 - Interface_Object.py, 169 - Button start_typing intersection check
+4:29:1.549130 - Interface_Object.py, 170 - Button start_typing intersection check failed
+4:29:1.549130 - Interface_Object.py, 171 - Button start_typing press check
+4:29:1.549130 - Interface_Object.py, 172 - Button start_typing intersection check failed
+4:29:1.549130 - Interface.py, 173 - Rendering
+4:29:1.549130 - Interface.py, 174 - Rendering sprite
+4:29:1.554131 - Interface.py, 175 - Rendering sprite
+4:29:1.558132 - Interface.py, 176 - Rendering sprite
+4:29:1.563134 - Interface_Object.py, 177 - Button exit rendering
+4:29:1.563134 - Interface_Object.py, 178 - Button start_typing rendering
+4:29:1.564133 - Interface.py, 179 - Main cycle iteration
+4:29:1.581292 - Interface_Object.py, 180 - Button exit intersection check
+4:29:1.581292 - Interface_Object.py, 181 - Button exit intersection check failed
+4:29:1.581292 - Interface_Object.py, 182 - Button exit press check
+4:29:1.581292 - Interface_Object.py, 183 - Button exit intersection check failed
+4:29:1.581292 - Interface_Object.py, 184 - Button start_typing intersection check
+4:29:1.581292 - Interface_Object.py, 185 - Button start_typing intersection check failed
+4:29:1.581292 - Interface_Object.py, 186 - Button start_typing press check
+4:29:1.581292 - Interface_Object.py, 187 - Button start_typing intersection check failed
+4:29:1.581292 - Interface.py, 188 - Rendering
+4:29:1.581292 - Interface.py, 189 - Rendering sprite
+4:29:1.586294 - Interface.py, 190 - Rendering sprite
+4:29:1.590800 - Interface.py, 191 - Rendering sprite
+4:29:1.594800 - Interface_Object.py, 192 - Button exit rendering
+4:29:1.595801 - Interface_Object.py, 193 - Button start_typing rendering
+4:29:1.596802 - Interface.py, 194 - Main cycle iteration
+4:29:1.613299 - Interface_Object.py, 195 - Button exit intersection check
+4:29:1.613299 - Interface_Object.py, 196 - Button exit intersection check failed
+4:29:1.613299 - Interface_Object.py, 197 - Button exit press check
+4:29:1.613299 - Interface_Object.py, 198 - Button exit intersection check failed
+4:29:1.613299 - Interface_Object.py, 199 - Button start_typing intersection check
+4:29:1.613299 - Interface_Object.py, 200 - Button start_typing intersection check failed
+4:29:1.613299 - Interface_Object.py, 201 - Button start_typing press check
+4:29:1.613299 - Interface_Object.py, 202 - Button start_typing intersection check failed
+4:29:1.613299 - Interface.py, 203 - Rendering
+4:29:1.613299 - Interface.py, 204 - Rendering sprite
+4:29:1.618301 - Interface.py, 205 - Rendering sprite
+4:29:1.622784 - Interface.py, 206 - Rendering sprite
+4:29:1.626786 - Interface_Object.py, 207 - Button exit rendering
+4:29:1.627786 - Interface_Object.py, 208 - Button start_typing rendering
+4:29:1.628786 - Interface.py, 209 - Main cycle iteration
+4:29:1.645269 - Interface_Object.py, 210 - Button exit intersection check
+4:29:1.645269 - Interface_Object.py, 211 - Button exit intersection check failed
+4:29:1.645269 - Interface_Object.py, 212 - Button exit press check
+4:29:1.645269 - Interface_Object.py, 213 - Button exit intersection check failed
+4:29:1.645269 - Interface_Object.py, 214 - Button start_typing intersection check
+4:29:1.645269 - Interface_Object.py, 215 - Button start_typing intersection check failed
+4:29:1.645269 - Interface_Object.py, 216 - Button start_typing press check
+4:29:1.645269 - Interface_Object.py, 217 - Button start_typing intersection check failed
+4:29:1.645269 - Interface.py, 218 - Rendering
+4:29:1.645269 - Interface.py, 219 - Rendering sprite
+4:29:1.650269 - Interface.py, 220 - Rendering sprite
+4:29:1.655272 - Interface.py, 221 - Rendering sprite
+4:29:1.659272 - Interface_Object.py, 222 - Button exit rendering
+4:29:1.660272 - Interface_Object.py, 223 - Button start_typing rendering
+4:29:1.661273 - Interface.py, 224 - Main cycle iteration
+4:29:1.679277 - Interface_Object.py, 225 - Button exit intersection check
+4:29:1.679277 - Interface_Object.py, 226 - Button exit intersection check failed
+4:29:1.679277 - Interface_Object.py, 227 - Button exit press check
+4:29:1.679277 - Interface_Object.py, 228 - Button exit intersection check failed
+4:29:1.679277 - Interface_Object.py, 229 - Button start_typing intersection check
+4:29:1.679277 - Interface_Object.py, 230 - Button start_typing intersection check failed
+4:29:1.679277 - Interface_Object.py, 231 - Button start_typing press check
+4:29:1.679277 - Interface_Object.py, 232 - Button start_typing intersection check failed
+4:29:1.679277 - Interface_Object.py, 233 - Button exit intersection check
+4:29:1.679277 - Interface_Object.py, 234 - Button exit intersection check failed
+4:29:1.679277 - Interface_Object.py, 235 - Button exit press check
+4:29:1.679277 - Interface_Object.py, 236 - Button exit intersection check failed
+4:29:1.679277 - Interface_Object.py, 237 - Button start_typing intersection check
+4:29:1.679277 - Interface_Object.py, 238 - Button start_typing intersection check failed
+4:29:1.679277 - Interface_Object.py, 239 - Button start_typing press check
+4:29:1.679277 - Interface_Object.py, 240 - Button start_typing intersection check failed
+4:29:1.679277 - Interface.py, 241 - Rendering
+4:29:1.679277 - Interface.py, 242 - Rendering sprite
+4:29:1.684278 - Interface.py, 243 - Rendering sprite
+4:29:1.688788 - Interface.py, 244 - Rendering sprite
+4:29:1.693754 - Interface_Object.py, 245 - Button exit rendering
+4:29:1.694754 - Interface_Object.py, 246 - Button start_typing rendering
+4:29:1.695756 - Interface.py, 247 - Main cycle iteration
+4:29:1.712763 - Interface_Object.py, 248 - Button exit intersection check
+4:29:1.712763 - Interface_Object.py, 249 - Button exit intersection check failed
+4:29:1.712763 - Interface_Object.py, 250 - Button exit press check
+4:29:1.712763 - Interface_Object.py, 251 - Button exit intersection check failed
+4:29:1.712763 - Interface_Object.py, 252 - Button start_typing intersection check
+4:29:1.712763 - Interface_Object.py, 253 - Button start_typing intersection check failed
+4:29:1.712763 - Interface_Object.py, 254 - Button start_typing press check
+4:29:1.712763 - Interface_Object.py, 255 - Button start_typing intersection check failed
+4:29:1.712763 - Interface.py, 256 - Rendering
+4:29:1.712763 - Interface.py, 257 - Rendering sprite
+4:29:1.717764 - Interface.py, 258 - Rendering sprite
+4:29:1.722766 - Interface.py, 259 - Rendering sprite
+4:29:1.726766 - Interface_Object.py, 260 - Button exit rendering
+4:29:1.727766 - Interface_Object.py, 261 - Button start_typing rendering
+4:29:1.728766 - Interface.py, 262 - Main cycle iteration
+4:29:1.745773 - Interface_Object.py, 263 - Button exit intersection check
+4:29:1.745773 - Interface_Object.py, 264 - Button exit intersection check failed
+4:29:1.745773 - Interface_Object.py, 265 - Button exit press check
+4:29:1.745773 - Interface_Object.py, 266 - Button exit intersection check failed
+4:29:1.745773 - Interface_Object.py, 267 - Button start_typing intersection check
+4:29:1.745773 - Interface_Object.py, 268 - Button start_typing intersection check failed
+4:29:1.745773 - Interface_Object.py, 269 - Button start_typing press check
+4:29:1.745773 - Interface_Object.py, 270 - Button start_typing intersection check failed
+4:29:1.745773 - Interface.py, 271 - Rendering
+4:29:1.745773 - Interface.py, 272 - Rendering sprite
+4:29:1.750774 - Interface.py, 273 - Rendering sprite
+4:29:1.755279 - Interface.py, 274 - Rendering sprite
+4:29:1.760280 - Interface_Object.py, 275 - Button exit rendering
+4:29:1.760280 - Interface_Object.py, 276 - Button start_typing rendering
+4:29:1.761280 - Interface.py, 277 - Main cycle iteration
+4:29:1.777566 - Interface_Object.py, 278 - Button exit intersection check
+4:29:1.777566 - Interface_Object.py, 279 - Button exit intersection check failed
+4:29:1.777566 - Interface_Object.py, 280 - Button exit press check
+4:29:1.777566 - Interface_Object.py, 281 - Button exit intersection check failed
+4:29:1.777566 - Interface_Object.py, 282 - Button start_typing intersection check
+4:29:1.777566 - Interface_Object.py, 283 - Button start_typing intersection check failed
+4:29:1.777566 - Interface_Object.py, 284 - Button start_typing press check
+4:29:1.777566 - Interface_Object.py, 285 - Button start_typing intersection check failed
+4:29:1.777566 - Interface.py, 286 - Rendering
+4:29:1.777566 - Interface.py, 287 - Rendering sprite
+4:29:1.782782 - Interface.py, 288 - Rendering sprite
+4:29:1.786776 - Interface.py, 289 - Rendering sprite
+4:29:1.791792 - Interface_Object.py, 290 - Button exit rendering
+4:29:1.791792 - Interface_Object.py, 291 - Button start_typing rendering
+4:29:1.792793 - Interface.py, 292 - Main cycle iteration
+4:29:1.809803 - Interface_Object.py, 293 - Button exit intersection check
+4:29:1.809803 - Interface_Object.py, 294 - Button exit intersection check failed
+4:29:1.809803 - Interface_Object.py, 295 - Button exit press check
+4:29:1.809803 - Interface_Object.py, 296 - Button exit intersection check failed
+4:29:1.809803 - Interface_Object.py, 297 - Button start_typing intersection check
+4:29:1.809803 - Interface_Object.py, 298 - Button start_typing intersection check failed
+4:29:1.809803 - Interface_Object.py, 299 - Button start_typing press check
+4:29:1.809803 - Interface_Object.py, 300 - Button start_typing intersection check failed
+4:29:1.809803 - Interface.py, 301 - Rendering
+4:29:1.809803 - Interface.py, 302 - Rendering sprite
+4:29:1.814807 - Interface.py, 303 - Rendering sprite
+4:29:1.819805 - Interface.py, 304 - Rendering sprite
+4:29:1.824807 - Interface_Object.py, 305 - Button exit rendering
+4:29:1.824807 - Interface_Object.py, 306 - Button start_typing rendering
+4:29:1.825807 - Interface.py, 307 - Main cycle iteration
+4:29:1.842813 - Interface_Object.py, 308 - Button exit intersection check
+4:29:1.842813 - Interface_Object.py, 309 - Button exit intersection check failed
+4:29:1.842813 - Interface_Object.py, 310 - Button exit press check
+4:29:1.842813 - Interface_Object.py, 311 - Button exit intersection check failed
+4:29:1.842813 - Interface_Object.py, 312 - Button start_typing intersection check
+4:29:1.842813 - Interface_Object.py, 313 - Button start_typing intersection check failed
+4:29:1.842813 - Interface_Object.py, 314 - Button start_typing press check
+4:29:1.842813 - Interface_Object.py, 315 - Button start_typing intersection check failed
+4:29:1.842813 - Interface.py, 316 - Rendering
+4:29:1.842813 - Interface.py, 317 - Rendering sprite
+4:29:1.847813 - Interface.py, 318 - Rendering sprite
+4:29:1.851814 - Interface.py, 319 - Rendering sprite
+4:29:1.856815 - Interface_Object.py, 320 - Button exit rendering
+4:29:1.856815 - Interface_Object.py, 321 - Button start_typing rendering
+4:29:1.857816 - Interface.py, 322 - Main cycle iteration
+4:29:1.875821 - Interface_Object.py, 323 - Button exit intersection check
+4:29:1.875821 - Interface_Object.py, 324 - Button exit intersection check failed
+4:29:1.875821 - Interface_Object.py, 325 - Button exit press check
+4:29:1.875821 - Interface_Object.py, 326 - Button exit intersection check failed
+4:29:1.875821 - Interface_Object.py, 327 - Button start_typing intersection check
+4:29:1.875821 - Interface_Object.py, 328 - Button start_typing intersection check failed
+4:29:1.875821 - Interface_Object.py, 329 - Button start_typing press check
+4:29:1.875821 - Interface_Object.py, 330 - Button start_typing intersection check failed
+4:29:1.875821 - Interface_Object.py, 331 - Button exit intersection check
+4:29:1.875821 - Interface_Object.py, 332 - Button exit intersection check failed
+4:29:1.875821 - Interface_Object.py, 333 - Button exit press check
+4:29:1.875821 - Interface_Object.py, 334 - Button exit intersection check failed
+4:29:1.875821 - Interface_Object.py, 335 - Button start_typing intersection check
+4:29:1.875821 - Interface_Object.py, 336 - Button start_typing intersection check failed
+4:29:1.875821 - Interface_Object.py, 337 - Button start_typing press check
+4:29:1.875821 - Interface_Object.py, 338 - Button start_typing intersection check failed
+4:29:1.875821 - Interface.py, 339 - Rendering
+4:29:1.875821 - Interface.py, 340 - Rendering sprite
+4:29:1.880821 - Interface.py, 341 - Rendering sprite
+4:29:1.884822 - Interface.py, 342 - Rendering sprite
+4:29:1.889327 - Interface_Object.py, 343 - Button exit rendering
+4:29:1.890327 - Interface_Object.py, 344 - Button start_typing rendering
+4:29:1.891328 - Interface.py, 345 - Main cycle iteration
+4:29:1.908336 - Interface_Object.py, 346 - Button exit intersection check
+4:29:1.908336 - Interface_Object.py, 347 - Button exit intersection check failed
+4:29:1.908336 - Interface_Object.py, 348 - Button exit press check
+4:29:1.908336 - Interface_Object.py, 349 - Button exit intersection check failed
+4:29:1.908336 - Interface_Object.py, 350 - Button start_typing intersection check
+4:29:1.908336 - Interface_Object.py, 351 - Button start_typing intersection check failed
+4:29:1.908336 - Interface_Object.py, 352 - Button start_typing press check
+4:29:1.908336 - Interface_Object.py, 353 - Button start_typing intersection check failed
+4:29:1.908336 - Interface.py, 354 - Rendering
+4:29:1.908336 - Interface.py, 355 - Rendering sprite
+4:29:1.913336 - Interface.py, 356 - Rendering sprite
+4:29:1.917337 - Interface.py, 357 - Rendering sprite
+4:29:1.922326 - Interface_Object.py, 358 - Button exit rendering
+4:29:1.922326 - Interface_Object.py, 359 - Button start_typing rendering
+4:29:1.923327 - Interface.py, 360 - Main cycle iteration
+4:29:1.940342 - Interface_Object.py, 361 - Button exit intersection check
+4:29:1.940342 - Interface_Object.py, 362 - Button exit intersection check failed
+4:29:1.940342 - Interface_Object.py, 363 - Button exit press check
+4:29:1.940342 - Interface_Object.py, 364 - Button exit intersection check failed
+4:29:1.940342 - Interface_Object.py, 365 - Button start_typing intersection check
+4:29:1.940342 - Interface_Object.py, 366 - Button start_typing intersection check failed
+4:29:1.940342 - Interface_Object.py, 367 - Button start_typing press check
+4:29:1.940342 - Interface_Object.py, 368 - Button start_typing intersection check failed
+4:29:1.940342 - Interface.py, 369 - Rendering
+4:29:1.940342 - Interface.py, 370 - Rendering sprite
+4:29:1.945344 - Interface.py, 371 - Rendering sprite
+4:29:1.949344 - Interface.py, 372 - Rendering sprite
+4:29:1.954345 - Interface_Object.py, 373 - Button exit rendering
+4:29:1.954345 - Interface_Object.py, 374 - Button start_typing rendering
+4:29:1.955346 - Interface.py, 375 - Main cycle iteration
+4:29:1.972281 - Interface_Object.py, 376 - Button exit intersection check
+4:29:1.972281 - Interface_Object.py, 377 - Button exit intersection check failed
+4:29:1.972281 - Interface_Object.py, 378 - Button exit press check
+4:29:1.972281 - Interface_Object.py, 379 - Button exit intersection check failed
+4:29:1.972281 - Interface_Object.py, 380 - Button start_typing intersection check
+4:29:1.972281 - Interface_Object.py, 381 - Button start_typing intersection check failed
+4:29:1.972281 - Interface_Object.py, 382 - Button start_typing press check
+4:29:1.972281 - Interface_Object.py, 383 - Button start_typing intersection check failed
+4:29:1.972281 - Interface.py, 384 - Rendering
+4:29:1.972281 - Interface.py, 385 - Rendering sprite
+4:29:1.977281 - Interface.py, 386 - Rendering sprite
+4:29:1.981281 - Interface.py, 387 - Rendering sprite
+4:29:1.986282 - Interface_Object.py, 388 - Button exit rendering
+4:29:1.986282 - Interface_Object.py, 389 - Button start_typing rendering
+4:29:1.987283 - Interface.py, 390 - Main cycle iteration
+4:29:2.4018 - Interface_Object.py, 391 - Button exit intersection check
+4:29:2.4018 - Interface_Object.py, 392 - Button exit intersection check failed
+4:29:2.4018 - Interface_Object.py, 393 - Button exit press check
+4:29:2.4018 - Interface_Object.py, 394 - Button exit intersection check failed
+4:29:2.4018 - Interface_Object.py, 395 - Button start_typing intersection check
+4:29:2.4018 - Interface_Object.py, 396 - Button start_typing intersection check failed
+4:29:2.4018 - Interface_Object.py, 397 - Button start_typing press check
+4:29:2.4018 - Interface_Object.py, 398 - Button start_typing intersection check failed
+4:29:2.4018 - Interface.py, 399 - Rendering
+4:29:2.4018 - Interface.py, 400 - Rendering sprite
+4:29:2.9021 - Interface.py, 401 - Rendering sprite
+4:29:2.13022 - Interface.py, 402 - Rendering sprite
+4:29:2.18023 - Interface_Object.py, 403 - Button exit rendering
+4:29:2.19023 - Interface_Object.py, 404 - Button start_typing rendering
+4:29:2.19023 - Interface.py, 405 - Main cycle iteration
+4:29:2.36543 - Interface_Object.py, 406 - Button exit intersection check
+4:29:2.36543 - Interface_Object.py, 407 - Button exit intersection check failed
+4:29:2.36543 - Interface_Object.py, 408 - Button exit press check
+4:29:2.36543 - Interface_Object.py, 409 - Button exit intersection check failed
+4:29:2.36543 - Interface_Object.py, 410 - Button start_typing intersection check
+4:29:2.36543 - Interface_Object.py, 411 - Button start_typing intersection check failed
+4:29:2.36543 - Interface_Object.py, 412 - Button start_typing press check
+4:29:2.36543 - Interface_Object.py, 413 - Button start_typing intersection check failed
+4:29:2.36543 - Interface.py, 414 - Rendering
+4:29:2.36543 - Interface.py, 415 - Rendering sprite
+4:29:2.41543 - Interface.py, 416 - Rendering sprite
+4:29:2.45544 - Interface.py, 417 - Rendering sprite
+4:29:2.50545 - Interface_Object.py, 418 - Button exit rendering
+4:29:2.50545 - Interface_Object.py, 419 - Button start_typing rendering
+4:29:2.52288 - Interface.py, 420 - Main cycle iteration
+4:29:2.69287 - Interface_Object.py, 421 - Button exit intersection check
+4:29:2.69287 - Interface_Object.py, 422 - Button exit intersection check failed
+4:29:2.69287 - Interface_Object.py, 423 - Button exit press check
+4:29:2.69287 - Interface_Object.py, 424 - Button exit intersection check failed
+4:29:2.69287 - Interface_Object.py, 425 - Button start_typing intersection check
+4:29:2.69287 - Interface_Object.py, 426 - Button start_typing intersection check failed
+4:29:2.69287 - Interface_Object.py, 427 - Button start_typing press check
+4:29:2.69287 - Interface_Object.py, 428 - Button start_typing intersection check failed
+4:29:2.69287 - Interface_Object.py, 429 - Button exit intersection check
+4:29:2.69287 - Interface_Object.py, 430 - Button exit intersection check failed
+4:29:2.69287 - Interface_Object.py, 431 - Button exit press check
+4:29:2.69287 - Interface_Object.py, 432 - Button exit intersection check failed
+4:29:2.69287 - Interface_Object.py, 433 - Button start_typing intersection check
+4:29:2.69287 - Interface_Object.py, 434 - Button start_typing intersection check failed
+4:29:2.69287 - Interface_Object.py, 435 - Button start_typing press check
+4:29:2.69287 - Interface_Object.py, 436 - Button start_typing intersection check failed
+4:29:2.69287 - Interface.py, 437 - Rendering
+4:29:2.69287 - Interface.py, 438 - Rendering sprite
+4:29:2.74286 - Interface.py, 439 - Rendering sprite
+4:29:2.79288 - Interface.py, 440 - Rendering sprite
+4:29:2.83448 - Interface_Object.py, 441 - Button exit rendering
+4:29:2.84289 - Interface_Object.py, 442 - Button start_typing rendering
+4:29:2.85290 - Interface.py, 443 - Main cycle iteration
+4:29:2.102284 - Interface_Object.py, 444 - Button exit intersection check
+4:29:2.102284 - Interface_Object.py, 445 - Button exit intersection check failed
+4:29:2.102284 - Interface_Object.py, 446 - Button exit press check
+4:29:2.102284 - Interface_Object.py, 447 - Button exit intersection check failed
+4:29:2.102284 - Interface_Object.py, 448 - Button start_typing intersection check
+4:29:2.102284 - Interface_Object.py, 449 - Button start_typing intersection check failed
+4:29:2.102284 - Interface_Object.py, 450 - Button start_typing press check
+4:29:2.102284 - Interface_Object.py, 451 - Button start_typing intersection check failed
+4:29:2.102284 - Interface.py, 452 - Rendering
+4:29:2.102284 - Interface.py, 453 - Rendering sprite
+4:29:2.106788 - Interface.py, 454 - Rendering sprite
+4:29:2.111790 - Interface.py, 455 - Rendering sprite
+4:29:2.116791 - Interface_Object.py, 456 - Button exit rendering
+4:29:2.116791 - Interface_Object.py, 457 - Button start_typing rendering
+4:29:2.117791 - Interface.py, 458 - Main cycle iteration
+4:29:2.134799 - Interface_Object.py, 459 - Button exit intersection check
+4:29:2.134799 - Interface_Object.py, 460 - Button exit intersection check failed
+4:29:2.134799 - Interface_Object.py, 461 - Button exit press check
+4:29:2.134799 - Interface_Object.py, 462 - Button exit intersection check failed
+4:29:2.134799 - Interface_Object.py, 463 - Button start_typing intersection check
+4:29:2.134799 - Interface_Object.py, 464 - Button start_typing intersection check failed
+4:29:2.134799 - Interface_Object.py, 465 - Button start_typing press check
+4:29:2.134799 - Interface_Object.py, 466 - Button start_typing intersection check failed
+4:29:2.134799 - Interface.py, 467 - Rendering
+4:29:2.134799 - Interface.py, 468 - Rendering sprite
+4:29:2.139800 - Interface.py, 469 - Rendering sprite
+4:29:2.143801 - Interface.py, 470 - Rendering sprite
+4:29:2.148802 - Interface_Object.py, 471 - Button exit rendering
+4:29:2.148802 - Interface_Object.py, 472 - Button start_typing rendering
+4:29:2.149803 - Interface.py, 473 - Main cycle iteration
+4:29:2.167284 - Interface_Object.py, 474 - Button exit intersection check
+4:29:2.167284 - Interface_Object.py, 475 - Button exit intersection check failed
+4:29:2.167284 - Interface_Object.py, 476 - Button exit press check
+4:29:2.167284 - Interface_Object.py, 477 - Button exit intersection check failed
+4:29:2.167284 - Interface_Object.py, 478 - Button start_typing intersection check
+4:29:2.167284 - Interface_Object.py, 479 - Button start_typing intersection check passed
+4:29:2.167284 - Interface_Object.py, 480 - Button start_typing press check
+4:29:2.167284 - Interface_Object.py, 481 - Button start_typing intersection check failed
+4:29:2.167284 - Interface.py, 482 - Rendering
+4:29:2.167284 - Interface.py, 483 - Rendering sprite
+4:29:2.172286 - Interface.py, 484 - Rendering sprite
+4:29:2.176287 - Interface.py, 485 - Rendering sprite
+4:29:2.181288 - Interface_Object.py, 486 - Button exit rendering
+4:29:2.181288 - Interface_Object.py, 487 - Button start_typing rendering
+4:29:2.182288 - Interface.py, 488 - Main cycle iteration
+4:29:2.199153 - Interface_Object.py, 489 - Button exit intersection check
+4:29:2.199153 - Interface_Object.py, 490 - Button exit intersection check failed
+4:29:2.199153 - Interface_Object.py, 491 - Button exit press check
+4:29:2.199153 - Interface_Object.py, 492 - Button exit intersection check failed
+4:29:2.199153 - Interface_Object.py, 493 - Button start_typing intersection check
+4:29:2.199153 - Interface_Object.py, 494 - Button start_typing intersection check passed
+4:29:2.199153 - Interface_Object.py, 495 - Button start_typing press check
+4:29:2.199153 - Interface_Object.py, 496 - Button start_typing intersection check failed
+4:29:2.199153 - Interface_Object.py, 497 - Button exit intersection check
+4:29:2.199153 - Interface_Object.py, 498 - Button exit intersection check failed
+4:29:2.199153 - Interface_Object.py, 499 - Button exit press check
+4:29:2.199153 - Interface_Object.py, 500 - Button exit intersection check failed
+4:29:2.199153 - Interface_Object.py, 501 - Button start_typing intersection check
+4:29:2.199153 - Interface_Object.py, 502 - Button start_typing intersection check passed
+4:29:2.199153 - Interface_Object.py, 503 - Button start_typing press check
+4:29:2.199153 - Interface_Object.py, 504 - Button start_typing intersection check failed
+4:29:2.199153 - Interface.py, 505 - Rendering
+4:29:2.199153 - Interface.py, 506 - Rendering sprite
+4:29:2.204154 - Interface.py, 507 - Rendering sprite
+4:29:2.209155 - Interface.py, 508 - Rendering sprite
+4:29:2.213156 - Interface_Object.py, 509 - Button exit rendering
+4:29:2.214156 - Interface_Object.py, 510 - Button start_typing rendering
+4:29:2.214156 - Interface.py, 511 - Main cycle iteration
+4:29:2.231160 - Interface_Object.py, 512 - Button exit intersection check
+4:29:2.231160 - Interface_Object.py, 513 - Button exit intersection check failed
+4:29:2.231160 - Interface_Object.py, 514 - Button exit press check
+4:29:2.231160 - Interface_Object.py, 515 - Button exit intersection check failed
+4:29:2.231160 - Interface_Object.py, 516 - Button start_typing intersection check
+4:29:2.231160 - Interface_Object.py, 517 - Button start_typing intersection check passed
+4:29:2.231160 - Interface_Object.py, 518 - Button start_typing press check
+4:29:2.231160 - Interface_Object.py, 519 - Button start_typing intersection check failed
+4:29:2.231160 - Interface.py, 520 - Rendering
+4:29:2.231160 - Interface.py, 521 - Rendering sprite
+4:29:2.236162 - Interface.py, 522 - Rendering sprite
+4:29:2.240163 - Interface.py, 523 - Rendering sprite
+4:29:2.245164 - Interface_Object.py, 524 - Button exit rendering
+4:29:2.245164 - Interface_Object.py, 525 - Button start_typing rendering
+4:29:2.246165 - Interface.py, 526 - Main cycle iteration
+4:29:2.263467 - Interface_Object.py, 527 - Button exit intersection check
+4:29:2.263467 - Interface_Object.py, 528 - Button exit intersection check failed
+4:29:2.263467 - Interface_Object.py, 529 - Button exit press check
+4:29:2.263467 - Interface_Object.py, 530 - Button exit intersection check failed
+4:29:2.263467 - Interface_Object.py, 531 - Button start_typing intersection check
+4:29:2.263467 - Interface_Object.py, 532 - Button start_typing intersection check passed
+4:29:2.263467 - Interface_Object.py, 533 - Button start_typing press check
+4:29:2.263467 - Interface_Object.py, 534 - Button start_typing intersection check failed
+4:29:2.263467 - Interface.py, 535 - Rendering
+4:29:2.263467 - Interface.py, 536 - Rendering sprite
+4:29:2.268468 - Interface.py, 537 - Rendering sprite
+4:29:2.272469 - Interface.py, 538 - Rendering sprite
+4:29:2.277470 - Interface_Object.py, 539 - Button exit rendering
+4:29:2.277470 - Interface_Object.py, 540 - Button start_typing rendering
+4:29:2.278471 - Interface.py, 541 - Main cycle iteration
+4:29:2.295483 - Interface_Object.py, 542 - Button exit intersection check
+4:29:2.295483 - Interface_Object.py, 543 - Button exit intersection check failed
+4:29:2.295483 - Interface_Object.py, 544 - Button exit press check
+4:29:2.295483 - Interface_Object.py, 545 - Button exit intersection check failed
+4:29:2.295483 - Interface_Object.py, 546 - Button start_typing intersection check
+4:29:2.295483 - Interface_Object.py, 547 - Button start_typing intersection check passed
+4:29:2.295483 - Interface_Object.py, 548 - Button start_typing press check
+4:29:2.295483 - Interface_Object.py, 549 - Button start_typing intersection check failed
+4:29:2.295483 - Interface.py, 550 - Rendering
+4:29:2.295483 - Interface.py, 551 - Rendering sprite
+4:29:2.300484 - Interface.py, 552 - Rendering sprite
+4:29:2.304486 - Interface.py, 553 - Rendering sprite
+4:29:2.309486 - Interface_Object.py, 554 - Button exit rendering
+4:29:2.309486 - Interface_Object.py, 555 - Button start_typing rendering
+4:29:2.310486 - Interface.py, 556 - Main cycle iteration
+4:29:2.327036 - Interface_Object.py, 557 - Button exit intersection check
+4:29:2.327036 - Interface_Object.py, 558 - Button exit intersection check failed
+4:29:2.327036 - Interface_Object.py, 559 - Button exit press check
+4:29:2.327036 - Interface_Object.py, 560 - Button exit intersection check failed
+4:29:2.327036 - Interface_Object.py, 561 - Button start_typing intersection check
+4:29:2.327036 - Interface_Object.py, 562 - Button start_typing intersection check passed
+4:29:2.327036 - Interface_Object.py, 563 - Button start_typing press check
+4:29:2.327036 - Interface_Object.py, 564 - Button start_typing intersection check failed
+4:29:2.327036 - Interface.py, 565 - Rendering
+4:29:2.327036 - Interface.py, 566 - Rendering sprite
+4:29:2.332039 - Interface.py, 567 - Rendering sprite
+4:29:2.336040 - Interface.py, 568 - Rendering sprite
+4:29:2.341041 - Interface_Object.py, 569 - Button exit rendering
+4:29:2.341041 - Interface_Object.py, 570 - Button start_typing rendering
+4:29:2.342041 - Interface.py, 571 - Main cycle iteration
+4:29:2.358895 - Interface_Object.py, 572 - Button exit intersection check
+4:29:2.358895 - Interface_Object.py, 573 - Button exit intersection check failed
+4:29:2.358895 - Interface_Object.py, 574 - Button exit press check
+4:29:2.358895 - Interface_Object.py, 575 - Button exit intersection check failed
+4:29:2.358895 - Interface_Object.py, 576 - Button start_typing intersection check
+4:29:2.358895 - Interface_Object.py, 577 - Button start_typing intersection check passed
+4:29:2.358895 - Interface_Object.py, 578 - Button start_typing press check
+4:29:2.358895 - Interface_Object.py, 579 - Button start_typing intersection check failed
+4:29:2.358895 - Interface.py, 580 - Rendering
+4:29:2.358895 - Interface.py, 581 - Rendering sprite
+4:29:2.363896 - Interface.py, 582 - Rendering sprite
+4:29:2.368898 - Interface.py, 583 - Rendering sprite
+4:29:2.372898 - Interface_Object.py, 584 - Button exit rendering
+4:29:2.373898 - Interface_Object.py, 585 - Button start_typing rendering
+4:29:2.373898 - Interface.py, 586 - Main cycle iteration
+4:29:2.391314 - Interface_Object.py, 587 - Button exit intersection check
+4:29:2.391314 - Interface_Object.py, 588 - Button exit intersection check failed
+4:29:2.391314 - Interface_Object.py, 589 - Button exit press check
+4:29:2.391314 - Interface_Object.py, 590 - Button exit intersection check failed
+4:29:2.391314 - Interface_Object.py, 591 - Button start_typing intersection check
+4:29:2.391314 - Interface_Object.py, 592 - Button start_typing intersection check passed
+4:29:2.391314 - Interface_Object.py, 593 - Button start_typing press check
+4:29:2.391314 - Interface_Object.py, 594 - Button start_typing intersection check failed
+4:29:2.391314 - Interface.py, 595 - Rendering
+4:29:2.391314 - Interface.py, 596 - Rendering sprite
+4:29:2.396308 - Interface.py, 597 - Rendering sprite
+4:29:2.401309 - Interface.py, 598 - Rendering sprite
+4:29:2.406310 - Interface_Object.py, 599 - Button exit rendering
+4:29:2.406310 - Interface_Object.py, 600 - Button start_typing rendering
+4:29:2.407310 - Interface.py, 601 - Main cycle iteration
+4:29:2.424739 - Interface.py, 602 - Rendering
+4:29:2.424739 - Interface.py, 603 - Rendering sprite
+4:29:2.429740 - Interface.py, 604 - Rendering sprite
+4:29:2.433742 - Interface.py, 605 - Rendering sprite
+4:29:2.438742 - Interface_Object.py, 606 - Button exit rendering
+4:29:2.438742 - Interface_Object.py, 607 - Button start_typing rendering
+4:29:2.439743 - Interface.py, 608 - Main cycle iteration
+4:29:2.456749 - Interface.py, 609 - Rendering
+4:29:2.456749 - Interface.py, 610 - Rendering sprite
+4:29:2.460750 - Interface.py, 611 - Rendering sprite
+4:29:2.465751 - Interface.py, 612 - Rendering sprite
+4:29:2.469751 - Interface_Object.py, 613 - Button exit rendering
+4:29:2.470752 - Interface_Object.py, 614 - Button start_typing rendering
+4:29:2.471752 - Interface.py, 615 - Main cycle iteration
+4:29:2.488760 - Interface.py, 616 - Rendering
+4:29:2.488760 - Interface.py, 617 - Rendering sprite
+4:29:2.493361 - Interface.py, 618 - Rendering sprite
+4:29:2.497361 - Interface.py, 619 - Rendering sprite
+4:29:2.502363 - Interface_Object.py, 620 - Button exit rendering
+4:29:2.502363 - Interface_Object.py, 621 - Button start_typing rendering
+4:29:2.503362 - Interface.py, 622 - Main cycle iteration
+4:29:2.519944 - Interface.py, 623 - Rendering
+4:29:2.519944 - Interface.py, 624 - Rendering sprite
+4:29:2.523946 - Interface.py, 625 - Rendering sprite
+4:29:2.528948 - Interface.py, 626 - Rendering sprite
+4:29:2.533948 - Interface_Object.py, 627 - Button exit rendering
+4:29:2.533948 - Interface_Object.py, 628 - Button start_typing rendering
+4:29:2.534949 - Interface.py, 629 - Main cycle iteration
+4:29:2.551952 - Interface.py, 630 - Rendering
+4:29:2.551952 - Interface.py, 631 - Rendering sprite
+4:29:2.555954 - Interface.py, 632 - Rendering sprite
+4:29:2.560954 - Interface.py, 633 - Rendering sprite
+4:29:2.565956 - Interface_Object.py, 634 - Button exit rendering
+4:29:2.565956 - Interface_Object.py, 635 - Button start_typing rendering
+4:29:2.566955 - Interface.py, 636 - Main cycle iteration
+4:29:2.583964 - Interface.py, 637 - Rendering
+4:29:2.583964 - Interface.py, 638 - Rendering sprite
+4:29:2.587965 - Interface.py, 639 - Rendering sprite
+4:29:2.592968 - Interface.py, 640 - Rendering sprite
+4:29:2.597969 - Interface_Object.py, 641 - Button exit rendering
+4:29:2.597969 - Interface_Object.py, 642 - Button start_typing rendering
+4:29:2.598969 - Interface.py, 643 - Main cycle iteration
+4:29:2.615224 - Interface.py, 644 - Rendering
+4:29:2.615224 - Interface.py, 645 - Rendering sprite
+4:29:2.619226 - Interface.py, 646 - Rendering sprite
+4:29:2.624227 - Interface.py, 647 - Rendering sprite
+4:29:2.629231 - Interface_Object.py, 648 - Button exit rendering
+4:29:2.629231 - Interface_Object.py, 649 - Button start_typing rendering
+4:29:2.630229 - Interface.py, 650 - Main cycle iteration
+4:29:2.646932 - Interface.py, 651 - Rendering
+4:29:2.646932 - Interface.py, 652 - Rendering sprite
+4:29:2.650934 - Interface.py, 653 - Rendering sprite
+4:29:2.655935 - Interface.py, 654 - Rendering sprite
+4:29:2.660936 - Interface_Object.py, 655 - Button exit rendering
+4:29:2.660936 - Interface_Object.py, 656 - Button start_typing rendering
+4:29:2.661937 - Interface.py, 657 - Main cycle iteration
+4:29:2.679127 - Interface.py, 658 - Rendering
+4:29:2.679127 - Interface.py, 659 - Rendering sprite
+4:29:2.683128 - Interface.py, 660 - Rendering sprite
+4:29:2.688129 - Interface.py, 661 - Rendering sprite
+4:29:2.692130 - Interface_Object.py, 662 - Button exit rendering
+4:29:2.693131 - Interface_Object.py, 663 - Button start_typing rendering
+4:29:2.694130 - Interface.py, 664 - Main cycle iteration
+4:29:2.710644 - Interface.py, 665 - Rendering
+4:29:2.710644 - Interface.py, 666 - Rendering sprite
+4:29:2.714643 - Interface.py, 667 - Rendering sprite
+4:29:2.719644 - Interface.py, 668 - Rendering sprite
+4:29:2.724645 - Interface_Object.py, 669 - Button exit rendering
+4:29:2.724645 - Interface_Object.py, 670 - Button start_typing rendering
+4:29:2.725646 - Interface.py, 671 - Main cycle iteration
+4:29:2.741916 - Interface.py, 672 - Rendering
+4:29:2.741916 - Interface.py, 673 - Rendering sprite
+4:29:2.745917 - Interface.py, 674 - Rendering sprite
+4:29:2.750917 - Interface.py, 675 - Rendering sprite
+4:29:2.755920 - Interface_Object.py, 676 - Button exit rendering
+4:29:2.755920 - Interface_Object.py, 677 - Button start_typing rendering
+4:29:2.756920 - Interface.py, 678 - Main cycle iteration
+4:29:2.773877 - Interface.py, 679 - Rendering
+4:29:2.773877 - Interface.py, 680 - Rendering sprite
+4:29:2.777879 - Interface.py, 681 - Rendering sprite
+4:29:2.782879 - Interface.py, 682 - Rendering sprite
+4:29:2.787880 - Interface_Object.py, 683 - Button exit rendering
+4:29:2.787880 - Interface_Object.py, 684 - Button start_typing rendering
+4:29:2.788881 - Interface.py, 685 - Main cycle iteration
+4:29:2.805929 - Interface.py, 686 - Rendering
+4:29:2.805929 - Interface.py, 687 - Rendering sprite
+4:29:2.809929 - Interface.py, 688 - Rendering sprite
+4:29:2.814931 - Interface.py, 689 - Rendering sprite
+4:29:2.819932 - Interface_Object.py, 690 - Button exit rendering
+4:29:2.819932 - Interface_Object.py, 691 - Button start_typing rendering
+4:29:2.820932 - Interface.py, 692 - Main cycle iteration
+4:29:2.837759 - Interface.py, 693 - Rendering
+4:29:2.837759 - Interface.py, 694 - Rendering sprite
+4:29:2.841760 - Interface.py, 695 - Rendering sprite
+4:29:2.846761 - Interface.py, 696 - Rendering sprite
+4:29:2.850762 - Interface_Object.py, 697 - Button exit rendering
+4:29:2.851762 - Interface_Object.py, 698 - Button start_typing rendering
+4:29:2.852762 - Interface.py, 699 - Main cycle iteration
+4:29:2.869466 - Interface.py, 700 - Rendering
+4:29:2.869466 - Interface.py, 701 - Rendering sprite
+4:29:2.873467 - Interface.py, 702 - Rendering sprite
+4:29:2.878469 - Interface.py, 703 - Rendering sprite
+4:29:2.883469 - Interface_Object.py, 704 - Button exit rendering
+4:29:2.883469 - Interface_Object.py, 705 - Button start_typing rendering
+4:29:2.884469 - Interface.py, 706 - Main cycle iteration
+4:29:2.901025 - Interface.py, 707 - Rendering
+4:29:2.901025 - Interface.py, 708 - Rendering sprite
+4:29:2.905026 - Interface.py, 709 - Rendering sprite
+4:29:2.910027 - Interface.py, 710 - Rendering sprite
+4:29:2.915028 - Interface_Object.py, 711 - Button exit rendering
+4:29:2.915357 - Interface_Object.py, 712 - Button start_typing rendering
+4:29:2.916028 - Interface.py, 713 - Main cycle iteration
+4:29:2.933119 - Interface.py, 714 - Rendering
+4:29:2.933119 - Interface.py, 715 - Rendering sprite
+4:29:2.937629 - Interface.py, 716 - Rendering sprite
+4:29:2.942131 - Interface.py, 717 - Rendering sprite
+4:29:2.946132 - Interface_Object.py, 718 - Button exit rendering
+4:29:2.947133 - Interface_Object.py, 719 - Button start_typing rendering
+4:29:2.948132 - Interface.py, 720 - Main cycle iteration
+4:29:2.965140 - Interface.py, 721 - Rendering
+4:29:2.965140 - Interface.py, 722 - Rendering sprite
+4:29:2.969141 - Interface.py, 723 - Rendering sprite
+4:29:2.974143 - Interface.py, 724 - Rendering sprite
+4:29:2.979144 - Interface_Object.py, 725 - Button exit rendering
+4:29:2.979144 - Interface_Object.py, 726 - Button start_typing rendering
+4:29:2.980143 - Interface.py, 727 - Main cycle iteration
+4:29:2.997151 - Interface.py, 728 - Rendering
+4:29:2.997151 - Interface.py, 729 - Rendering sprite
+4:29:3.1937 - Interface.py, 730 - Rendering sprite
+4:29:3.6439 - Interface.py, 731 - Rendering sprite
+4:29:3.10440 - Interface_Object.py, 732 - Button exit rendering
+4:29:3.11440 - Interface_Object.py, 733 - Button start_typing rendering
+4:29:3.12440 - Interface.py, 734 - Main cycle iteration
+4:29:3.29166 - Interface.py, 735 - Rendering
+4:29:3.29166 - Interface.py, 736 - Rendering sprite
+4:29:3.33248 - Interface.py, 737 - Rendering sprite
+4:29:3.37672 - Interface.py, 738 - Rendering sprite
+4:29:3.43181 - Interface_Object.py, 739 - Button exit rendering
+4:29:3.43181 - Interface_Object.py, 740 - Button start_typing rendering
+4:29:3.44181 - Interface.py, 741 - Main cycle iteration
+4:29:3.61192 - Interface.py, 742 - Rendering
+4:29:3.61192 - Interface.py, 743 - Rendering sprite
+4:29:3.65193 - Interface.py, 744 - Rendering sprite
+4:29:3.70194 - Interface.py, 745 - Rendering sprite
+4:29:3.75195 - Interface_Object.py, 746 - Button exit rendering
+4:29:3.75195 - Interface_Object.py, 747 - Button start_typing rendering
+4:29:3.76195 - Interface.py, 748 - Main cycle iteration
+4:29:3.92647 - Interface.py, 749 - Rendering
+4:29:3.92647 - Interface.py, 750 - Rendering sprite
+4:29:3.96648 - Interface.py, 751 - Rendering sprite
+4:29:3.101649 - Interface.py, 752 - Rendering sprite
+4:29:3.105649 - Interface_Object.py, 753 - Button exit rendering
+4:29:3.106650 - Interface_Object.py, 754 - Button start_typing rendering
+4:29:3.107650 - Interface.py, 755 - Main cycle iteration
+4:29:3.124658 - Interface.py, 756 - Rendering
+4:29:3.124658 - Interface.py, 757 - Rendering sprite
+4:29:3.128659 - Interface.py, 758 - Rendering sprite
+4:29:3.133661 - Interface.py, 759 - Rendering sprite
+4:29:3.138661 - Interface_Object.py, 760 - Button exit rendering
+4:29:3.138661 - Interface_Object.py, 761 - Button start_typing rendering
+4:29:3.139662 - Interface.py, 762 - Main cycle iteration
+4:29:3.156670 - Interface.py, 763 - Rendering
+4:29:3.156670 - Interface.py, 764 - Rendering sprite
+4:29:3.160671 - Interface.py, 765 - Rendering sprite
+4:29:3.165672 - Interface.py, 766 - Rendering sprite
+4:29:3.170674 - Interface_Object.py, 767 - Button exit rendering
+4:29:3.170674 - Interface_Object.py, 768 - Button start_typing rendering
+4:29:3.171183 - Interface.py, 769 - Main cycle iteration
+4:29:3.188681 - Interface.py, 770 - Rendering
+4:29:3.188681 - Interface.py, 771 - Rendering sprite
+4:29:3.192683 - Interface.py, 772 - Rendering sprite
+4:29:3.197684 - Interface.py, 773 - Rendering sprite
+4:29:3.202685 - Interface_Object.py, 774 - Button exit rendering
+4:29:3.202685 - Interface_Object.py, 775 - Button start_typing rendering
+4:29:3.203685 - Interface.py, 776 - Main cycle iteration
+4:29:3.219913 - Interface.py, 777 - Rendering
+4:29:3.219913 - Interface.py, 778 - Rendering sprite
+4:29:3.223915 - Interface.py, 779 - Rendering sprite
+4:29:3.228916 - Interface.py, 780 - Rendering sprite
+4:29:3.233917 - Interface_Object.py, 781 - Button exit rendering
+4:29:3.233917 - Interface_Object.py, 782 - Button start_typing rendering
+4:29:3.234917 - Interface.py, 783 - Main cycle iteration
+4:29:3.251922 - Interface.py, 784 - Rendering
+4:29:3.251922 - Interface.py, 785 - Rendering sprite
+4:29:3.255923 - Interface.py, 786 - Rendering sprite
+4:29:3.260924 - Interface.py, 787 - Rendering sprite
+4:29:3.265925 - Interface_Object.py, 788 - Button exit rendering
+4:29:3.265925 - Interface_Object.py, 789 - Button start_typing rendering
+4:29:3.266925 - Interface.py, 790 - Main cycle iteration
+4:29:3.283937 - Interface.py, 791 - Rendering
+4:29:3.283937 - Interface.py, 792 - Rendering sprite
+4:29:3.287938 - Interface.py, 793 - Rendering sprite
+4:29:3.292939 - Interface.py, 794 - Rendering sprite
+4:29:3.297940 - Interface_Object.py, 795 - Button exit rendering
+4:29:3.297940 - Interface_Object.py, 796 - Button start_typing rendering
+4:29:3.298940 - Interface.py, 797 - Main cycle iteration
+4:29:3.315233 - Interface.py, 798 - Rendering
+4:29:3.315233 - Interface.py, 799 - Rendering sprite
+4:29:3.319235 - Interface.py, 800 - Rendering sprite
+4:29:3.324236 - Interface.py, 801 - Rendering sprite
+4:29:3.328237 - Interface_Object.py, 802 - Button exit rendering
+4:29:3.329237 - Interface_Object.py, 803 - Button start_typing rendering
+4:29:3.330237 - Interface.py, 804 - Main cycle iteration
+4:29:3.347246 - Interface.py, 805 - Rendering
+4:29:3.347246 - Interface.py, 806 - Rendering sprite
+4:29:3.351249 - Interface.py, 807 - Rendering sprite
+4:29:3.356250 - Interface.py, 808 - Rendering sprite
+4:29:3.361252 - Interface_Object.py, 809 - Button exit rendering
+4:29:3.361252 - Interface_Object.py, 810 - Button start_typing rendering
+4:29:3.362253 - Interface.py, 811 - Main cycle iteration
+4:29:3.379257 - Interface.py, 812 - Rendering
+4:29:3.379257 - Interface.py, 813 - Rendering sprite
+4:29:3.384257 - Interface.py, 814 - Rendering sprite
+4:29:3.388258 - Interface.py, 815 - Rendering sprite
+4:29:3.393262 - Interface_Object.py, 816 - Button exit rendering
+4:29:3.393262 - Interface_Object.py, 817 - Button start_typing rendering
+4:29:3.394263 - Interface.py, 818 - Main cycle iteration
+4:29:3.410730 - Interface.py, 819 - Rendering
+4:29:3.410730 - Interface.py, 820 - Rendering sprite
+4:29:3.414733 - Interface.py, 821 - Rendering sprite
+4:29:3.419733 - Interface.py, 822 - Rendering sprite
+4:29:3.424734 - Interface_Object.py, 823 - Button exit rendering
+4:29:3.424734 - Interface_Object.py, 824 - Button start_typing rendering
+4:29:3.425735 - Interface.py, 825 - Main cycle iteration
+4:29:3.442245 - Interface.py, 826 - Rendering
+4:29:3.442245 - Interface.py, 827 - Rendering sprite
+4:29:3.447246 - Interface.py, 828 - Rendering sprite
+4:29:3.451246 - Interface.py, 829 - Rendering sprite
+4:29:3.456248 - Interface_Object.py, 830 - Button exit rendering
+4:29:3.456248 - Interface_Object.py, 831 - Button start_typing rendering
+4:29:3.457248 - Interface.py, 832 - Main cycle iteration
+4:29:3.473927 - Interface.py, 833 - Rendering
+4:29:3.473927 - Interface.py, 834 - Rendering sprite
+4:29:3.477928 - Interface.py, 835 - Rendering sprite
+4:29:3.482929 - Interface.py, 836 - Rendering sprite
+4:29:3.487930 - Interface_Object.py, 837 - Button exit rendering
+4:29:3.487930 - Interface_Object.py, 838 - Button start_typing rendering
+4:29:3.488930 - Interface.py, 839 - Main cycle iteration
+4:29:3.505630 - Interface.py, 840 - Rendering
+4:29:3.505630 - Interface.py, 841 - Rendering sprite
+4:29:3.509630 - Interface.py, 842 - Rendering sprite
+4:29:3.514631 - Interface.py, 843 - Rendering sprite
+4:29:3.519633 - Interface_Object.py, 844 - Button exit rendering
+4:29:3.519633 - Interface_Object.py, 845 - Button start_typing rendering
+4:29:3.520633 - Interface.py, 846 - Main cycle iteration
+4:29:3.537148 - Interface.py, 847 - Rendering
+4:29:3.537148 - Interface.py, 848 - Rendering sprite
+4:29:3.541144 - Interface.py, 849 - Rendering sprite
+4:29:3.546146 - Interface.py, 850 - Rendering sprite
+4:29:3.550146 - Interface_Object.py, 851 - Button exit rendering
+4:29:3.551147 - Interface_Object.py, 852 - Button start_typing rendering
+4:29:3.552147 - Interface.py, 853 - Main cycle iteration
+4:29:3.569224 - Interface.py, 854 - Rendering
+4:29:3.569224 - Interface.py, 855 - Rendering sprite
+4:29:3.573776 - Interface.py, 856 - Rendering sprite
+4:29:3.577797 - Interface.py, 857 - Rendering sprite
+4:29:3.582778 - Interface_Object.py, 858 - Button exit rendering
+4:29:3.582778 - Interface_Object.py, 859 - Button start_typing rendering
+4:29:3.583778 - Interface.py, 860 - Main cycle iteration
+4:29:3.601088 - Interface.py, 861 - Rendering
+4:29:3.601088 - Interface.py, 862 - Rendering sprite
+4:29:3.605146 - Interface.py, 863 - Rendering sprite
+4:29:3.610147 - Interface.py, 864 - Rendering sprite
+4:29:3.615148 - Interface_Object.py, 865 - Button exit rendering
+4:29:3.615148 - Interface_Object.py, 866 - Button start_typing rendering
+4:29:3.616148 - Interface.py, 867 - Main cycle iteration
+4:29:3.632735 - Interface.py, 868 - Rendering
+4:29:3.632735 - Interface.py, 869 - Rendering sprite
+4:29:3.636736 - Interface.py, 870 - Rendering sprite
+4:29:3.641737 - Interface.py, 871 - Rendering sprite
+4:29:3.646738 - Interface_Object.py, 872 - Button exit rendering
+4:29:3.646738 - Interface_Object.py, 873 - Button start_typing rendering
+4:29:3.647739 - Interface.py, 874 - Main cycle iteration
+4:29:3.664746 - Interface.py, 875 - Rendering
+4:29:3.664746 - Interface.py, 876 - Rendering sprite
+4:29:3.668747 - Interface.py, 877 - Rendering sprite
+4:29:3.673254 - Interface.py, 878 - Rendering sprite
+4:29:3.678255 - Interface_Object.py, 879 - Button exit rendering
+4:29:3.678255 - Interface_Object.py, 880 - Button start_typing rendering
+4:29:3.679254 - Interface.py, 881 - Main cycle iteration
+4:29:3.696399 - Interface.py, 882 - Rendering
+4:29:3.696399 - Interface.py, 883 - Rendering sprite
+4:29:3.701401 - Interface.py, 884 - Rendering sprite
+4:29:3.705906 - Interface.py, 885 - Rendering sprite
+4:29:3.709907 - Interface_Object.py, 886 - Button exit rendering
+4:29:3.710907 - Interface_Object.py, 887 - Button start_typing rendering
+4:29:3.710907 - Interface.py, 888 - Main cycle iteration
+4:29:3.728090 - Interface.py, 889 - Rendering
+4:29:3.728090 - Interface.py, 890 - Rendering sprite
+4:29:3.732092 - Interface.py, 891 - Rendering sprite
+4:29:3.737597 - Interface.py, 892 - Rendering sprite
+4:29:3.741598 - Interface_Object.py, 893 - Button exit rendering
+4:29:3.741598 - Interface_Object.py, 894 - Button start_typing rendering
+4:29:3.742599 - Interface.py, 895 - Main cycle iteration
+4:29:3.759422 - Interface.py, 896 - Rendering
+4:29:3.759422 - Interface.py, 897 - Rendering sprite
+4:29:3.763424 - Interface.py, 898 - Rendering sprite
+4:29:3.768425 - Interface.py, 899 - Rendering sprite
+4:29:3.772426 - Interface_Object.py, 900 - Button exit rendering
+4:29:3.773426 - Interface_Object.py, 901 - Button start_typing rendering
+4:29:3.774427 - Interface.py, 902 - Main cycle iteration
+4:29:3.791433 - Interface.py, 903 - Rendering
+4:29:3.791433 - Interface.py, 904 - Rendering sprite
+4:29:3.795775 - Interface.py, 905 - Rendering sprite
+4:29:3.800776 - Interface.py, 906 - Rendering sprite
+4:29:3.805288 - Interface_Object.py, 907 - Button exit rendering
+4:29:3.805288 - Interface_Object.py, 908 - Button start_typing rendering
+4:29:3.806283 - Interface.py, 909 - Main cycle iteration
+4:29:3.822783 - Interface.py, 910 - Rendering
+4:29:3.822783 - Interface.py, 911 - Rendering sprite
+4:29:3.826783 - Interface.py, 912 - Rendering sprite
+4:29:3.831785 - Interface.py, 913 - Rendering sprite
+4:29:3.836339 - Interface_Object.py, 914 - Button exit rendering
+4:29:3.836339 - Interface_Object.py, 915 - Button start_typing rendering
+4:29:3.837291 - Interface.py, 916 - Main cycle iteration
+4:29:3.854789 - Interface.py, 917 - Rendering
+4:29:3.854789 - Interface.py, 918 - Rendering sprite
+4:29:3.858790 - Interface.py, 919 - Rendering sprite
+4:29:3.863791 - Interface.py, 920 - Rendering sprite
+4:29:3.868793 - Interface_Object.py, 921 - Button exit rendering
+4:29:3.868793 - Interface_Object.py, 922 - Button start_typing rendering
+4:29:3.869793 - Interface.py, 923 - Main cycle iteration
+4:29:3.886801 - Interface.py, 924 - Rendering
+4:29:3.886801 - Interface.py, 925 - Rendering sprite
+4:29:3.890802 - Interface.py, 926 - Rendering sprite
+4:29:3.895803 - Interface.py, 927 - Rendering sprite
+4:29:3.900805 - Interface_Object.py, 928 - Button exit rendering
+4:29:3.900805 - Interface_Object.py, 929 - Button start_typing rendering
+4:29:3.901805 - Interface.py, 930 - Main cycle iteration
+4:29:3.918368 - Interface.py, 931 - Rendering
+4:29:3.918368 - Interface.py, 932 - Rendering sprite
+4:29:3.922370 - Interface.py, 933 - Rendering sprite
+4:29:3.927370 - Interface.py, 934 - Rendering sprite
+4:29:3.931372 - Interface_Object.py, 935 - Button exit rendering
+4:29:3.932373 - Interface_Object.py, 936 - Button start_typing rendering
+4:29:3.933372 - Interface.py, 937 - Main cycle iteration
+4:29:3.950383 - Interface.py, 938 - Rendering
+4:29:3.950383 - Interface.py, 939 - Rendering sprite
+4:29:3.954491 - Interface.py, 940 - Rendering sprite
+4:29:3.959493 - Interface.py, 941 - Rendering sprite
+4:29:3.964494 - Interface_Object.py, 942 - Button exit rendering
+4:29:3.964494 - Interface_Object.py, 943 - Button start_typing rendering
+4:29:3.965495 - Interface.py, 944 - Main cycle iteration
+4:29:3.982498 - Interface.py, 945 - Rendering
+4:29:3.982498 - Interface.py, 946 - Rendering sprite
+4:29:3.986499 - Interface.py, 947 - Rendering sprite
+4:29:3.991500 - Interface.py, 948 - Rendering sprite
+4:29:3.995756 - Interface_Object.py, 949 - Button exit rendering
+4:29:3.996755 - Interface_Object.py, 950 - Button start_typing rendering
+4:29:3.996755 - Interface.py, 951 - Main cycle iteration
+4:29:4.13759 - Interface.py, 952 - Rendering
+4:29:4.13759 - Interface.py, 953 - Rendering sprite
+4:29:4.17760 - Interface.py, 954 - Rendering sprite
+4:29:4.22761 - Interface.py, 955 - Rendering sprite
+4:29:4.27763 - Interface_Object.py, 956 - Button exit rendering
+4:29:4.27763 - Interface_Object.py, 957 - Button start_typing rendering
+4:29:4.28762 - Interface.py, 958 - Main cycle iteration
+4:29:4.45269 - Interface.py, 959 - Rendering
+4:29:4.45269 - Interface.py, 960 - Rendering sprite
+4:29:4.49270 - Interface.py, 961 - Rendering sprite
+4:29:4.54272 - Interface.py, 962 - Rendering sprite
+4:29:4.59273 - Interface_Object.py, 963 - Button exit rendering
+4:29:4.59273 - Interface_Object.py, 964 - Button start_typing rendering
+4:29:4.60273 - Interface.py, 965 - Main cycle iteration
+4:29:4.77076 - Interface.py, 966 - Rendering
+4:29:4.77076 - Interface.py, 967 - Rendering sprite
+4:29:4.81077 - Interface.py, 968 - Rendering sprite
+4:29:4.86078 - Interface.py, 969 - Rendering sprite
+4:29:4.91080 - Interface_Object.py, 970 - Button exit rendering
+4:29:4.91080 - Interface_Object.py, 971 - Button start_typing rendering
+4:29:4.92081 - Interface.py, 972 - Main cycle iteration
+4:29:4.108270 - Interface.py, 973 - Rendering
+4:29:4.108270 - Interface.py, 974 - Rendering sprite
+4:29:4.112272 - Interface.py, 975 - Rendering sprite
+4:29:4.117273 - Interface.py, 976 - Rendering sprite
+4:29:4.122274 - Interface_Object.py, 977 - Button exit rendering
+4:29:4.122274 - Interface_Object.py, 978 - Button start_typing rendering
+4:29:4.123275 - Interface.py, 979 - Main cycle iteration
+4:29:4.140146 - Interface.py, 980 - Rendering
+4:29:4.140146 - Interface.py, 981 - Rendering sprite
+4:29:4.144105 - Interface.py, 982 - Rendering sprite
+4:29:4.149106 - Interface.py, 983 - Rendering sprite
+4:29:4.154107 - Interface_Object.py, 984 - Button exit rendering
+4:29:4.154107 - Interface_Object.py, 985 - Button start_typing rendering
+4:29:4.155107 - Interface.py, 986 - Main cycle iteration
+4:29:4.171510 - Interface.py, 987 - Rendering
+4:29:4.171510 - Interface.py, 988 - Rendering sprite
+4:29:4.176016 - Interface.py, 989 - Rendering sprite
+4:29:4.180016 - Interface.py, 990 - Rendering sprite
+4:29:4.185018 - Interface_Object.py, 991 - Button exit rendering
+4:29:4.185018 - Interface_Object.py, 992 - Button start_typing rendering
+4:29:4.186018 - Interface.py, 993 - Main cycle iteration
+4:29:4.203775 - Interface.py, 994 - Rendering
+4:29:4.203775 - Interface.py, 995 - Rendering sprite
+4:29:4.208279 - Interface.py, 996 - Rendering sprite
+4:29:4.212280 - Interface.py, 997 - Rendering sprite
+4:29:4.217282 - Interface_Object.py, 998 - Button exit rendering
+4:29:4.217282 - Interface_Object.py, 999 - Button start_typing rendering
+4:29:4.218281 - Interface.py, 1000 - Main cycle iteration
+4:29:4.235291 - Interface.py, 1001 - Rendering
+4:29:4.235291 - Interface.py, 1002 - Rendering sprite
+4:29:4.239292 - Interface.py, 1003 - Rendering sprite
+4:29:4.244293 - Interface.py, 1004 - Rendering sprite
+4:29:4.248293 - Interface_Object.py, 1005 - Button exit rendering
+4:29:4.249294 - Interface_Object.py, 1006 - Button start_typing rendering
+4:29:4.250294 - Interface.py, 1007 - Main cycle iteration
+4:29:4.267251 - Interface.py, 1008 - Rendering
+4:29:4.267251 - Interface.py, 1009 - Rendering sprite
+4:29:4.271757 - Interface.py, 1010 - Rendering sprite
+4:29:4.275758 - Interface.py, 1011 - Rendering sprite
+4:29:4.280759 - Interface_Object.py, 1012 - Button exit rendering
+4:29:4.280759 - Interface_Object.py, 1013 - Button start_typing rendering
+4:29:4.281759 - Interface.py, 1014 - Main cycle iteration
+4:29:4.298427 - Interface.py, 1015 - Rendering
+4:29:4.298427 - Interface.py, 1016 - Rendering sprite
+4:29:4.302990 - Interface.py, 1017 - Rendering sprite
+4:29:4.307500 - Interface.py, 1018 - Rendering sprite
+4:29:4.312499 - Interface_Object.py, 1019 - Button exit rendering
+4:29:4.312499 - Interface_Object.py, 1020 - Button start_typing rendering
+4:29:4.313501 - Interface.py, 1021 - Main cycle iteration
+4:29:4.330512 - Interface.py, 1022 - Rendering
+4:29:4.330512 - Interface.py, 1023 - Rendering sprite
+4:29:4.334513 - Interface.py, 1024 - Rendering sprite
+4:29:4.339514 - Interface.py, 1025 - Rendering sprite
+4:29:4.343515 - Interface_Object.py, 1026 - Button exit rendering
+4:29:4.344516 - Interface_Object.py, 1027 - Button start_typing rendering
+4:29:4.345515 - Interface.py, 1028 - Main cycle iteration
+4:29:4.362527 - Interface.py, 1029 - Rendering
+4:29:4.362527 - Interface.py, 1030 - Rendering sprite
+4:29:4.366528 - Interface.py, 1031 - Rendering sprite
+4:29:4.371536 - Interface.py, 1032 - Rendering sprite
+4:29:4.376041 - Interface_Object.py, 1033 - Button exit rendering
+4:29:4.376041 - Interface_Object.py, 1034 - Button start_typing rendering
+4:29:4.377041 - Interface.py, 1035 - Main cycle iteration
+4:29:4.394569 - Interface.py, 1036 - Rendering
+4:29:4.394569 - Interface.py, 1037 - Rendering sprite
+4:29:4.398570 - Interface.py, 1038 - Rendering sprite
+4:29:4.403571 - Interface.py, 1039 - Rendering sprite
+4:29:4.408573 - Interface_Object.py, 1040 - Button exit rendering
+4:29:4.408573 - Interface_Object.py, 1041 - Button start_typing rendering
+4:29:4.409572 - Interface.py, 1042 - Main cycle iteration
+4:29:4.425834 - Interface.py, 1043 - Rendering
+4:29:4.425834 - Interface.py, 1044 - Rendering sprite
+4:29:4.429836 - Interface.py, 1045 - Rendering sprite
+4:29:4.434837 - Interface.py, 1046 - Rendering sprite
+4:29:4.439838 - Interface_Object.py, 1047 - Button exit rendering
+4:29:4.439838 - Interface_Object.py, 1048 - Button start_typing rendering
+4:29:4.440839 - Interface.py, 1049 - Main cycle iteration
+4:29:4.457117 - Interface.py, 1050 - Rendering
+4:29:4.457117 - Interface.py, 1051 - Rendering sprite
+4:29:4.461118 - Interface.py, 1052 - Rendering sprite
+4:29:4.466119 - Interface.py, 1053 - Rendering sprite
+4:29:4.471141 - Interface_Object.py, 1054 - Button exit rendering
+4:29:4.471141 - Interface_Object.py, 1055 - Button start_typing rendering
+4:29:4.472134 - Interface.py, 1056 - Main cycle iteration
+4:29:4.488333 - Interface.py, 1057 - Rendering
+4:29:4.488333 - Interface.py, 1058 - Rendering sprite
+4:29:4.492748 - Interface.py, 1059 - Rendering sprite
+4:29:4.497743 - Interface.py, 1060 - Rendering sprite
+4:29:4.501743 - Interface_Object.py, 1061 - Button exit rendering
+4:29:4.502743 - Interface_Object.py, 1062 - Button start_typing rendering
+4:29:4.502743 - Interface.py, 1063 - Main cycle iteration
+4:29:4.520134 - Interface.py, 1064 - Rendering
+4:29:4.520134 - Interface.py, 1065 - Rendering sprite
+4:29:4.524135 - Interface.py, 1066 - Rendering sprite
+4:29:4.529136 - Interface.py, 1067 - Rendering sprite
+4:29:4.534138 - Interface_Object.py, 1068 - Button exit rendering
+4:29:4.534138 - Interface_Object.py, 1069 - Button start_typing rendering
+4:29:4.535138 - Interface.py, 1070 - Main cycle iteration
+4:29:4.552150 - Interface.py, 1071 - Rendering
+4:29:4.552150 - Interface.py, 1072 - Rendering sprite
+4:29:4.556151 - Interface.py, 1073 - Rendering sprite
+4:29:4.561151 - Interface.py, 1074 - Rendering sprite
+4:29:4.565153 - Interface_Object.py, 1075 - Button exit rendering
+4:29:4.566152 - Interface_Object.py, 1076 - Button start_typing rendering
+4:29:4.567153 - Interface.py, 1077 - Main cycle iteration
+4:29:4.584156 - Interface.py, 1078 - Rendering
+4:29:4.584156 - Interface.py, 1079 - Rendering sprite
+4:29:4.588156 - Interface.py, 1080 - Rendering sprite
+4:29:4.592670 - Interface.py, 1081 - Rendering sprite
+4:29:4.597664 - Interface_Object.py, 1082 - Button exit rendering
+4:29:4.598174 - Interface_Object.py, 1083 - Button start_typing rendering
+4:29:4.598664 - Interface.py, 1084 - Main cycle iteration
+4:29:4.615668 - Interface.py, 1085 - Rendering
+4:29:4.615668 - Interface.py, 1086 - Rendering sprite
+4:29:4.619669 - Interface.py, 1087 - Rendering sprite
+4:29:4.624671 - Interface.py, 1088 - Rendering sprite
+4:29:4.628672 - Interface_Object.py, 1089 - Button exit rendering
+4:29:4.629672 - Interface_Object.py, 1090 - Button start_typing rendering
+4:29:4.630672 - Interface.py, 1091 - Main cycle iteration
+4:29:4.647690 - Interface.py, 1092 - Rendering
+4:29:4.647690 - Interface.py, 1093 - Rendering sprite
+4:29:4.651692 - Interface.py, 1094 - Rendering sprite
+4:29:4.656694 - Interface.py, 1095 - Rendering sprite
+4:29:4.661695 - Interface_Object.py, 1096 - Button exit rendering
+4:29:4.661695 - Interface_Object.py, 1097 - Button start_typing rendering
+4:29:4.662695 - Interface.py, 1098 - Main cycle iteration
+4:29:4.679700 - Interface.py, 1099 - Rendering
+4:29:4.679700 - Interface.py, 1100 - Rendering sprite
+4:29:4.684701 - Interface.py, 1101 - Rendering sprite
+4:29:4.688701 - Interface.py, 1102 - Rendering sprite
+4:29:4.693703 - Interface_Object.py, 1103 - Button exit rendering
+4:29:4.693703 - Interface_Object.py, 1104 - Button start_typing rendering
+4:29:4.694703 - Interface.py, 1105 - Main cycle iteration
+4:29:4.711715 - Interface.py, 1106 - Rendering
+4:29:4.711715 - Interface.py, 1107 - Rendering sprite
+4:29:4.715715 - Interface.py, 1108 - Rendering sprite
+4:29:4.720716 - Interface.py, 1109 - Rendering sprite
+4:29:4.725717 - Interface_Object.py, 1110 - Button exit rendering
+4:29:4.725717 - Interface_Object.py, 1111 - Button start_typing rendering
+4:29:4.726717 - Interface.py, 1112 - Main cycle iteration
+4:29:4.743549 - Interface.py, 1113 - Rendering
+4:29:4.743549 - Interface.py, 1114 - Rendering sprite
+4:29:4.747550 - Interface.py, 1115 - Rendering sprite
+4:29:4.752551 - Interface.py, 1116 - Rendering sprite
+4:29:4.757552 - Interface_Object.py, 1117 - Button exit rendering
+4:29:4.757552 - Interface_Object.py, 1118 - Button start_typing rendering
+4:29:4.758552 - Interface.py, 1119 - Main cycle iteration
+4:29:4.775179 - Interface.py, 1120 - Rendering
+4:29:4.775179 - Interface.py, 1121 - Rendering sprite
+4:29:4.780180 - Interface.py, 1122 - Rendering sprite
+4:29:4.784181 - Interface.py, 1123 - Rendering sprite
+4:29:4.789181 - Interface_Object.py, 1124 - Button exit rendering
+4:29:4.789181 - Interface_Object.py, 1125 - Button start_typing rendering
+4:29:4.790182 - Interface.py, 1126 - Main cycle iteration
+4:29:4.806617 - Interface.py, 1127 - Rendering
+4:29:4.806617 - Interface.py, 1128 - Rendering sprite
+4:29:4.810618 - Interface.py, 1129 - Rendering sprite
+4:29:4.815831 - Interface.py, 1130 - Rendering sprite
+4:29:4.820620 - Interface_Object.py, 1131 - Button exit rendering
+4:29:4.820620 - Interface_Object.py, 1132 - Button start_typing rendering
+4:29:4.821620 - Interface.py, 1133 - Main cycle iteration
+4:29:4.838206 - Interface.py, 1134 - Rendering
+4:29:4.838206 - Interface.py, 1135 - Rendering sprite
+4:29:4.842207 - Interface.py, 1136 - Rendering sprite
+4:29:4.847208 - Interface.py, 1137 - Rendering sprite
+4:29:4.851209 - Interface_Object.py, 1138 - Button exit rendering
+4:29:4.852209 - Interface_Object.py, 1139 - Button start_typing rendering
+4:29:4.853209 - Interface.py, 1140 - Main cycle iteration
+4:29:4.869368 - Interface_Object.py, 1141 - Button exit intersection check
+4:29:4.869368 - Interface_Object.py, 1142 - Button exit intersection check failed
+4:29:4.869368 - Interface_Object.py, 1143 - Button exit press check
+4:29:4.869368 - Interface_Object.py, 1144 - Button exit intersection check
+4:29:4.869368 - Interface_Object.py, 1145 - Button exit intersection check failed
+4:29:4.869368 - Interface_Object.py, 1146 - Button exit intersection check failed
+4:29:4.869368 - Interface_Object.py, 1147 - Button start_typing intersection check
+4:29:4.869368 - Interface_Object.py, 1148 - Button start_typing intersection check passed
+4:29:4.869368 - Interface_Object.py, 1149 - Button start_typing press check
+4:29:4.869368 - Interface_Object.py, 1150 - Button start_typing intersection check
+4:29:4.869368 - Interface_Object.py, 1151 - Button start_typing intersection check passed
+4:29:4.869368 - Interface_Object.py, 1152 - Exit function activated

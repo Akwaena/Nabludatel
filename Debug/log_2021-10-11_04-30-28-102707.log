@@ -1,0 +1,12 @@
+4:30:28.103708 - debugger.py, 1 - Started
+4:30:28.103708 - Interface_Object.py, 2 - Started
+4:30:28.103708 - Interface_Object.py, 3 - Initialising constants
+4:30:28.112131 - Interface_Object.py, 4 - Constants initialised
+4:30:28.112131 - Interface_Object.py, 5 - Interface objects initialising
+4:30:28.144720 - Interface_Object.py, 6 - Button exit initialising
+4:30:28.145720 - Interface_Object.py, 7 - Button exit initialised as dynamic
+4:30:28.145720 - Interface_Object.py, 8 - Button exit initialised
+4:30:28.146720 - Interface_Object.py, 9 - Button start_typing initialising
+4:30:28.146720 - Interface_Object.py, 10 - Button start_typing initialised as dynamic
+4:30:28.146720 - Interface_Object.py, 11 - Button start_typing initialised
+4:30:28.146720 - Interface_Object.py, 12 - Interface objects initialised
