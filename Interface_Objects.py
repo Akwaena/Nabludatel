@@ -1,8 +1,11 @@
-from PyQt5.QtWidgets import QApplication, QMenuBar, QMainWindow, QMenu, QAction, QLabel
+from PyQt5.QtWidgets import QApplication, QMenuBar, QMainWindow, QMenu, QAction, QLabel, QHBoxLayout
 from PyQt5.QtGui import QIcon, QImage, QPixmap
-from PyQt5.QtCore import QThread, pyqtSignal, pyqtSlot
+from PyQt5.QtCore import QThread, pyqtSignal, Qt
 import sys
-from .cfg_parser.py import *
+import cfg_parser
+
+open('temp_img/4custom/1.png', 'r')
+
 
 
 class Screen(QThread):
@@ -64,22 +67,35 @@ class Main(QMainWindow):
         self.controlMenu.addAction(self.exitAction)
 
 
-        self.screen = QLabel(self)
-        self.screen.resize(1920, 1080)
-        self.screen.move(0, 0)
+        self.screen = QLabel(self, alignment=Qt.AlignCenter)
+        self.pixmap = QPixmap('temp_img/4custom/1.png').scaled(self.cfg['resolution']['width'],
+                                                               self.cfg['resolution']['height'])
+        self.screen.setPixmap(self.pixmap)
+        self.screen.resize(self.cfg['resolution']['width'], self.cfg['resolution']['height'])
+        self.screen.move(0, 50)
+        self.screen.setText(f'{self.cfg["resolution"]["width"]}, {self.cfg["resolution"]["height"]}')
+        self.hbox = QHBoxLayout(self)
+        self.hbox.addWidget(self.screen)
+        self.setLayout(self.hbox)
 
         self.setGeometry(0, 0, 100, 100)
         self.setWindowTitle('Наблюдатель: пользовательский терминал')
         self.setWindowIcon(QIcon('icon.ico'))
         self.showFullScreen()
 
-    def setImage(self, image):
-        pass
+
+    def get_img_path(self):
+        if self.cfg['mode'] == 'custom':
+            return '/temp_img/4custom/'
+
+    def setImage(self, image='/temp_img/4custom/1.png'):
+        self.pixmap.load(image)
+        self.screen.setPixmap(self.pixmap)
 
     def exit_app(self):
         self.close()
 
 
 app = QApplication(sys.argv)
-window = Main(cfg_parser.parse())
+window = Main(cfg_parser.parse('config.cfg'))
 sys.exit(app.exec_())
