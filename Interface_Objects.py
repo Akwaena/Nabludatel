@@ -4,9 +4,6 @@ from PyQt5.QtCore import QThread, pyqtSignal, Qt
 import sys
 import cfg_parser
 
-open('temp_img/4custom/1.png', 'r')
-
-
 
 class Screen(QThread):
     changePixmap = pyqtSignal(QImage)
@@ -50,7 +47,6 @@ class Main(QMainWindow):
         self.recordMenu.addAction(self.stop_recAction)
         self.recordMenu.addAction(self.save_cfgAction)
 
-
         self.aiMenu = QMenu("Интеллект", self)
         self.MenuBar.addMenu(self.aiMenu)
         self.ai_statusAction = QAction('Статус: интеллект отключен', self)
@@ -66,16 +62,15 @@ class Main(QMainWindow):
         self.controlMenu.addAction(self.helpAction)
         self.controlMenu.addAction(self.exitAction)
 
-
-        self.screen = QLabel(self, alignment=Qt.AlignCenter)
-        self.pixmap = QPixmap('temp_img/4custom/1.png').scaled(self.cfg['resolution']['width'],
-                                                               self.cfg['resolution']['height'])
-        self.screen.setPixmap(self.pixmap)
-        self.screen.resize(self.cfg['resolution']['width'], self.cfg['resolution']['height'])
-        self.screen.move(0, 50)
-        self.screen.setText(f'{self.cfg["resolution"]["width"]}, {self.cfg["resolution"]["height"]}')
+        self.pixmap = QPixmap("1.png").scaled(self.cfg['resolution']['width'],
+                                              self.cfg['resolution']['height'])
+        self.label = QLabel(self)
+        self.label.resize(self.cfg['resolution']['width'],
+                          self.cfg['resolution']['height'])
+        self.label.move(0, 20)
+        self.label.setPixmap(self.pixmap)
         self.hbox = QHBoxLayout(self)
-        self.hbox.addWidget(self.screen)
+        self.hbox.addWidget(self.label)
         self.setLayout(self.hbox)
 
         self.setGeometry(0, 0, 100, 100)
@@ -83,14 +78,13 @@ class Main(QMainWindow):
         self.setWindowIcon(QIcon('icon.ico'))
         self.showFullScreen()
 
-
     def get_img_path(self):
         if self.cfg['mode'] == 'custom':
             return '/temp_img/4custom/'
 
     def setImage(self, image='/temp_img/4custom/1.png'):
-        self.pixmap.load(image)
-        self.screen.setPixmap(self.pixmap)
+        self.pixmap.load('temp_img/4custom/1.png', 'r')
+        self.label.setPixmap(self.pixmap)
 
     def exit_app(self):
         self.close()
