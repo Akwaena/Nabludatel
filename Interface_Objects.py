@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QApplication, QMenuBar, QMainWindow, QMenu, QAction, QLabel, QHBoxLayout
+from PyQt5.QtWidgets import QApplication, QMenuBar, QMainWindow, QMenu, QAction, QLabel, QHBoxLayout, QMessageBox
 from PyQt5.QtGui import QIcon, QImage, QPixmap
 from PyQt5.QtCore import QThread, pyqtSignal, Qt
 import sys
@@ -62,8 +62,8 @@ class Main(QMainWindow):
         self.controlMenu.addAction(self.helpAction)
         self.controlMenu.addAction(self.exitAction)
 
-        self.pixmap = QPixmap("1.png").scaled(self.cfg['resolution']['width'],
-                                              self.cfg['resolution']['height'])
+        self.pixmap = QPixmap('temp_image/1.png').scaled(self.cfg['resolution']['width'],
+                                                         self.cfg['resolution']['height'])
         self.label = QLabel(self)
         self.label.resize(self.cfg['resolution']['width'],
                           self.cfg['resolution']['height'])
@@ -73,6 +73,11 @@ class Main(QMainWindow):
         self.hbox.addWidget(self.label)
         self.setLayout(self.hbox)
 
+        self.msg = QMessageBox()
+        self.msg.setWindowTitle("Название окна")
+        self.msg.setText("Описание")
+        self.msg.setIcon(QMessageBox.Warning)
+
         self.setGeometry(0, 0, 100, 100)
         self.setWindowTitle('Наблюдатель: пользовательский терминал')
         self.setWindowIcon(QIcon('icon.ico'))
@@ -80,7 +85,7 @@ class Main(QMainWindow):
 
     def get_img_path(self):
         if self.cfg['mode'] == 'custom':
-            return '/temp_img/4custom/'
+            return 'temp_img/4custom/'
 
     def setImage(self, image='/temp_img/4custom/1.png'):
         self.pixmap.load('temp_img/4custom/1.png', 'r')

@@ -1,7 +1,11 @@
-pos, destination, portals = 0, 4, [1, 3, 5]
-path = 0
+work = 504
+counter = 0
+while work > 0:
+    if counter % 3 == 0:
+        work -= 10
+    elif counter % 10 == 0:
+        work += 15
+    counter += 1
+    work -= 1
 
-while pos != destination:
-    for i in portals:
-        if abs(pos - i) < abs(pos - destination):
-            paths+
+print(counter)

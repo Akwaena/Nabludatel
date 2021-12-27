@@ -1,0 +1,6 @@
+cold weapon
+non_auto firearm
+auto firearm
+handgun
+adult person
+minor person
